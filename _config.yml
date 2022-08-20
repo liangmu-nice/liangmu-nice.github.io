@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: https://github.com/liangmu-nice/liangmu_blog.git
+  repository: https://github.com/liangmu-nice/liangmu.github.io.git
   branch: master
